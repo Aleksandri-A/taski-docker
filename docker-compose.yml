@@ -8,6 +8,7 @@ volumes:
   pg_data:
   # Новый volume — для статических файлов
   static:
+  media:
 
 # Перечень контейнеров
 services:
